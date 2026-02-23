@@ -19,7 +19,10 @@
 ## چگونه نصب کنیم؟
 نصبش مثل هر افزونه دیگه ای برای کروم هست. چون کار خاصی نمیکنه منطقی نبود براش داکیومنت بنویسم، شما باید پروژه رو از لینک زیر دانلود کنید:
 
-و از لینک زیر، قسمت "مراحل نصب" رو انجام بدید، دقت کنید لینکی که که اونجا هست رو دانلود نکنید! 
+https://github.com/sMohammad14/Wallix-Bastion-Auto-Login/archive/refs/heads/main.zip
+
+و از لینک زیر، قسمت "مراحل نصب" رو انجام بدید.
+- دقت کنید لینکی که که اونجا هست رو دانلود نکنید! 
 
 https://github.com/sMohammad14/Wallix-Bastion-Auto-Backup
 
@@ -46,6 +49,10 @@ Although everything developed here is fully explained, complies with the officia
 
 Installation is like any other Chrome extension. Since it doesn't do anything fancy, it didn't make sense to write documentation for it. You need to download the project from the link below:
 
-And follow the "Installation Steps" section from the link below – note: do not download the file from that link!
+https://github.com/sMohammad14/Wallix-Bastion-Auto-Login/archive/refs/heads/main.zip
+
+And follow the "Installation Steps" section from the link below
+
+- note: do not download the file from that link!
 
 https://github.com/sMohammad14/Wallix-Bastion-Auto-Backup
